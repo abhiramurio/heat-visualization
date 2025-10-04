@@ -338,23 +338,23 @@ Include tests for new features
 👥 Team
 NASA Space Apps Challenge 2024
 
-[Your Name] - Project Lead & Full Stack Developer
+Abhiram U - Project Lead & Full Stack Developer
 
-Abhiram U
+ 
 
-[Team Member 2] - Data Scientist & NASA Data Integration
-
-Daksh Shah
+Daksh Shah- Data Scientist & NASA Data Integration
 
 
-[Team Member 3] - UI/UX Designer & Visualization Specialist
-
-Shariya Syeda
 
 
-[Team Member 4] - Research & Documentation
+Shariya Syeda - UI/UX Designer & Visualization Specialist
 
-Abhiram U
+
+
+
+Abhiram U - Research & Documentation
+
+
 
 
 🙏 Acknowledgments
@@ -396,13 +396,6 @@ MIT License Summary
 ❌ Liability
 ❌ Warranty
 
-📞 Contact
-Project Links
-
-Live Demo: https://your-demo-link.com
-GitHub Repository: https://github.com/yourusername/bangalore-heat-island-viz
-Project Documentation: docs/
-NASA Space Apps Submission: Link to submission
 
 Get in Touch
 
